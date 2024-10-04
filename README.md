@@ -24,7 +24,7 @@ SELECT <nombre de columna> FROM <nombre de tabla>;
 ```
 1. **Crea la Base de Datos celebridades**
    
-![instruction1](assets/assetsMD/instruction1.png)
+![instruction1](instruction1.png)
 
 1. **Muestra las bases de datos existentes**
 
